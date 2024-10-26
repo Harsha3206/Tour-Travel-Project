@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Users/yhars/OneDrive/Documents/DevFolio/DevFolio"
+		},
+		{
+			"path": "spelling mistake"
+		},
+		{
+			"path": "../project sm"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mini project"
+	}
+}
